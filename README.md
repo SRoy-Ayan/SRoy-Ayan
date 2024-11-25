@@ -1,4 +1,4 @@
--  Hey there 👋🏻.
+- 👋🏻 Hey there.
 - 😀 Myself Ayan .
 - 👀 I’m interested in coding
 - ⚡ Fun fact: I am so new in this.
